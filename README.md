@@ -34,10 +34,4 @@ ai_snake/
 │-- arial.ttf    # Font used for rendering
 ```
 
-## 🚀 Roadmap
-- [ ] Implement Deep Q-Learning
-- [ ] Add training progress visualization
-- [ ] Create leaderboard for AI performance
-
----
-Made with ❤️ by [Kiril](https://github.com/KirilShy)
+Made by [Kiril](https://github.com/KirilShy)
